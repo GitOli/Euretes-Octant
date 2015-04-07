@@ -13,7 +13,7 @@ namespace Euretes_Octant
         // If you wish to target a different database and/or database provider, modify the 'EFModel' 
         // connection string in the application configuration file.
         public EFModel()
-            : base("name=EFModel") 
+            : base("name=EFModel")
         {
         }
 
